@@ -1,0 +1,6 @@
+
+valid_email = "jetimax@yandex.ru"
+valid_password = "1725maksim"
+
+invalid_email = "lkfjsd@yandex.ru"
+invalid_password = "564fdg56"
